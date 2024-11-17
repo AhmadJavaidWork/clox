@@ -45,6 +45,7 @@ clox
 *.su
 *.idb
 *.pdb
+test.clox
 
 # Kernel Module Compile Results
 *.mod*
